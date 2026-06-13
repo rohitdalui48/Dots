@@ -1,0 +1,39 @@
+{
+	"pacman":[
+		"neovim",
+		"wl-clipboard",
+		"cliphist",
+		"tree-sitter-cli",
+		"lua-language-server",
+		"pyright",
+		"bash-language-server",
+		"luacheck",
+		"ruff",
+		"shellcheck",
+		"stylua",
+		"fzf",
+		"zoxide",
+		"exa",
+		"gcc",
+		"awww",
+		"unzip",
+		"geoclue",
+		"libnotify",
+		"power-profiles-daemon",
+		"python-gobjet",
+		"python"
+	],
+	"aur":[
+		"clangd-bin",
+		"noctalia-git",
+		"apple_cursor",
+		"python-cpplint",
+		"clang-format-linter-git",
+		"beautysh",
+		"awtwall",
+		"wlctl-bin",
+		"xdg-desktop-portal-termfilechooser-hunkyburrito-git",
+		"candy-icons-git"
+	]
+
+}
