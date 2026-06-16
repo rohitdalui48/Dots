@@ -27,3 +27,4 @@ sudo systemctl --user restart xdg-desktop-portal xdg-desktop-portal-termfilechoo
 
 # noctalia 
 ln -sfn $HOME/Dotfiles/Configs/noctalia $HOME/.config/noctalia
+

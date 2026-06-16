@@ -26,6 +26,7 @@
 	"aur":[
 		"clangd-bin",
 		"noctalia-git",
+		"zen-browser-bin",
 		"apple_cursor",
 		"python-cpplint",
 		"clang-format-linter-git",
@@ -33,7 +34,7 @@
 		"awtwall",
 		"wlctl-bin",
 		"xdg-desktop-portal-termfilechooser-hunkyburrito-git",
-		"candy-icons-git"
+		"papirus-icon-theme-git"
 	]
 
 }
