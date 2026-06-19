@@ -24,7 +24,7 @@
 		"python"
 	],
 	"aur":[
-		"clangd-bin",
+		"clang",
 		"noctalia-git",
 		"zen-browser-bin",
 		"apple_cursor",
