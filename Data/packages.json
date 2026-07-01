@@ -21,6 +21,7 @@
 		"libnotify",
 		"power-profiles-daemon",
 		"python-gobjet",
+		"keyd",
 		"python"
 	],
 	"aur":[

@@ -6,7 +6,7 @@ vim.g.maplocalleader = " "
 vim.keymap.set("n", "<leader>w", ":w<CR>", { desc = "Write File" })
 vim.keymap.set("n", "<leader>q", ":qw<CR>", { desc = "Write and Quit File" })
 vim.keymap.set("n", "<leader>q", ":q<CR>", { desc = "Quit File" })
-
+vim.keymap.set("n", "r", "<C-r>", { noremap = true })
 -- Splits
 vim.keymap.set("n", "<leader>|", ":vsplit<CR>", { desc = "Split vertically" })
 vim.keymap.set("n", "<leader>_", ":split<CR>", { desc = "Split Horizontally" })
